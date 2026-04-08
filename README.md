@@ -1,2 +1,1 @@
-# HOSS-LiU
-Resources page for HOSS at LiU
+# Human Open Science Services (HOSS) 
