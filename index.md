@@ -7,7 +7,7 @@ Find out how LiU encourages and supports *Open and Reproducible Research Practic
 * Book a consultation for your project or a seminar for your research group with Marta Topor, the Open Science Coach at marta.topor@liu.se 
 
 # Methodology-specific resources 
-[Metacience Resources](https://hoss-liu.github.io/HOSS-LiU/metascience) - here you will find detailed information about how to read and interpret a **meta-analysis** and how to do one yourself
+[Metascience Resources](https://hoss-liu.github.io/HOSS-LiU/metascience) - here you will find detailed information about how to read and interpret a **meta-analysis** and how to do one yourself
 
 # Discipline-specific resources 
 
