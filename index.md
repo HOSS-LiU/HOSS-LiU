@@ -11,4 +11,11 @@ Find out how LiU encourages and supports *Open and Reproducible Research Practic
 
 # Discipline-specific resources 
 
-# Statistics and programming
+# Statistics and programming  
+
+# Resources by project stage   
+Open science practices can be implemented at all stages of the research process. Below, we aim to collect guidance for integrating open science practices within your typical research workflow at all stages.  
+
+<p align="center">
+![OSF](https://github.com/HOSS-LiU/HOSS-LiU/blob/main/assets/images/OSF.png)
+</p> 
