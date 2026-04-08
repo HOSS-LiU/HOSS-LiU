@@ -12,7 +12,7 @@ Find out how LiU encourages and supports *Open and Reproducible Research Practic
 # Discipline-specific resources 
 
 # Statistics and programming  
-R Studio resources for programming beginners.  
+[R Studio](https://hoss-liu.github.io/HOSS-LiU/rstudio) - resources for programming beginners.  
 
 # Resources by project stage   
 Open science practices can be implemented at all stages of the research process. Below, we aim to collect guidance for integrating open science practices within your typical research workflow at any chosen stage.  
