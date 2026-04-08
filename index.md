@@ -6,6 +6,6 @@ Find out how LiU encourages and supports *Open and Reproducible Research Practic
 * [PhD Course on open science](https://liu.se/forskning/forskarutbildning/kurser-pa-forskarniva/open-science-for-phd-students) - what open science training is currently available  
 
 # Methodology-specific resources 
-(Metacience Resources)[https://hoss-liu.github.io/HOSS-LiU/metascience] - here you will find detailed information about how to read and interpret a meta-analysis and how to do one yourself
+[Metacience Resources](https://hoss-liu.github.io/HOSS-LiU/metascience) - here you will find detailed information about how to read and interpret a meta-analysis and how to do one yourself
 
 # Discipline-specific resources 
