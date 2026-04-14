@@ -6,7 +6,7 @@ Find out how LiU encourages and supports *Open and Reproducible Research Practic
 * [PhD Course on open science](https://liu.se/forskning/forskarutbildning/kurser-pa-forskarniva/open-science-for-phd-students) - what open science training is currently available
 * Book a consultation for your project or a seminar for your research group with Marta Topor, the Open Science Coach at marta.topor@liu.se
 
-### Publications and Popular Science Articles on Open and Reproducible Science by LiU staff 
+### Articles on Open and Reproducible Science by LiU staff 
 (note that only the names of the authors from LiU are listed in full) 
 #### 2025
 * [Öppen vetenskap borde gälla respons på ansökningar också](https://www.tidningencurie.se/debatt/oppen-vetenskap-borde-galla-respons-pa-ansokningar-ocksa) Anders Eklund, Ankica Babic, Ida Blystad, Jörg Schilcher, Sarah McIntyre, Jose M. Peña, Oleg Sysoev, Mika Gustafsson, Krzysztof Bartoszek, Hans Knutsson, Per Ask, Magnus Herberthson, Håkan Örman et al.
