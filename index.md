@@ -7,7 +7,9 @@ Find out how LiU encourages and supports *Open and Reproducible Research Practic
 * Book a consultation for your project or a seminar for your research group with Marta Topor, the Open Science Coach at marta.topor@liu.se
 
 ### Articles on Open and Reproducible Science by LiU staff 
-(note that only the names of the authors from LiU are listed in full) 
+(note that only the names of the authors from LiU are listed) 
+#### 2026
+* [Trustworthiness and transparency features were less frequent in randomized trials presenting large effects for continuous outcomes in abstracts](https://doi.org/10.1016/j.jclinepi.2026.112215) Lina Koppel et al. 
 #### 2025
 * [Öppen vetenskap borde gälla respons på ansökningar också](https://www.tidningencurie.se/debatt/oppen-vetenskap-borde-galla-respons-pa-ansokningar-ocksa) Anders Eklund, Ankica Babic, Ida Blystad, Jörg Schilcher, Sarah McIntyre, Jose M. Peña, Oleg Sysoev, Mika Gustafsson, Krzysztof Bartoszek, Hans Knutsson, Per Ask, Magnus Herberthson, Håkan Örman et al.
 * [Do LiU researchers publish data – and where? Dataset analysis using ODDPub](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1945958&dswid=-2919) Kaori Hoshi Larsson
