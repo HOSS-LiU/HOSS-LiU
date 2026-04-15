@@ -8,6 +8,7 @@ Find out how LiU encourages and supports *Open and Reproducible Research Practic
 
 ### Articles on Open and Reproducible Science by LiU staff 
 (note that only the names of the authors from LiU are listed) 
+  
 #### 2026
 * [Trustworthiness and transparency features were less frequent in randomized trials presenting large effects for continuous outcomes in abstracts](https://doi.org/10.1016/j.jclinepi.2026.112215) Lina Koppel et al. 
 #### 2025
