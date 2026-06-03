@@ -80,7 +80,7 @@ MEG manusctipts are also welcome at [PCI Registered Reports](https://rr.peercomm
 <br>  
 <br>  
 
-## (fNIRS functional near-infrared spectroscopy)  
+## fNIRS (functional near-infrared spectroscopy)  
   
 <div style="display: flex; gap: 20px;">
   <div style="flex: 1;">
