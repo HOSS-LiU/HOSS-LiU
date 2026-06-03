@@ -3,7 +3,12 @@ layout: default
 title: R Studio 
 ---
 
-# Neuroscience at HOSS 
+# Neuroscience at HOSS   
+Scroll down to find information for: 
+- EEG
+- MEG
+- fNIRS
+- fMRI
 
 ## EEG (Electroencephalography)
 
@@ -19,6 +24,26 @@ title: R Studio
 ### EEG Teaching 
 <p align="center"><img src="https://hoss-liu.github.io/HOSS-LiU/assets/images/EEG_liu1.png"></p>  
 
-We use the Geodesic nets for teaching and demonstration purposes. To 
+We use the Geodesic nets for teaching and demonstration purposes. Our lab has an electrically shielded and soundproofed room where we can record brain activity.  
 
-# Open Neuroscience 
+### EEG Research  
+<p align="center"><img src="https://hoss-liu.github.io/HOSS-LiU/assets/images/EEG_liu2.png"></p>  
+
+For research, we are soon going to use the BioSemi 64 channel system with active electrodes. 
+
+### Open Science Practices for EEG research  
+#### Open EEG Data
+You can access many already available open EEG datasets from [Open Neuro](https://openneuro.org/).   
+<br>  
+If you plan to share your own datasets:  
+- make sure that participants have given consent to having their EEG recording shared openly
+- make sure that the dataset follows the [Brain Imaging Data Stracture (BIDS)](https://bids.neuroimaging.io/standards/index.html)
+- follow the [COBIDAS best practices](https://osf.io/preprints/osf/a8dhx_v1) for data analysis and sharing
+
+### Preregistration and registered reports   
+The OSF has recently implemented a specific preregistration form for [EEG and ERP studies](https://docs.google.com/document/d/18bLw81ZlDJBCv_wyoohWyEmdI9vOnbS12IEKyrMVcSY/edit?tab=t.0#heading=h.fwbi14d4b65g).   
+You can also preregister your study on the OSF and follow the standard preregistration form or upload a document with research plans, if the avaiable template does not meet your needs.  
+<br>
+You can submit a registered reports to a number of neuroscience journals, for example, Cortex, European Journal of Neuroscience or Journal of Cognitive Neuroscience. You can check the full list of journals here on [the OSF](https://www.cos.io/initiatives/registered-reports).  
+EEG manusctipts are also welcome at [PCI Registered Reports](https://rr.peercommunityin.org/).  
+
