@@ -7,7 +7,7 @@ title: Neuroscience
 Scroll down to find information for: 
 - [EEG](#eeg-electroencephalography)
 - [MEG](#meg-magnetoencephalography) 
-- [fNIRS](#fnirs-functional-near-infrared -pectroscopy)
+- [fNIRS](#fnirs-functional-near-infrared-spectroscopy)
 - fMRI
 
 ## EEG (Electroencephalography)
