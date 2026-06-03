@@ -9,7 +9,8 @@ Find out how LiU encourages and supports *Open and Reproducible Research Practic
 ### Articles on Open and Reproducible Science by LiU staff 
 (note that only the names of the authors from LiU are listed) 
   
-#### 2026
+#### 2026  
+* [Overcoming barriers to computational reproducibility](https://doi.org/10.1098/rsos.252489) Lucija Batinović et al.
 * [Trustworthiness and transparency features were less frequent in randomized trials presenting large effects for continuous outcomes in abstracts](https://doi.org/10.1016/j.jclinepi.2026.112215) Lina Koppel et al. 
 #### 2025
 * [Öppen vetenskap borde gälla respons på ansökningar också](https://www.tidningencurie.se/debatt/oppen-vetenskap-borde-galla-respons-pa-ansokningar-ocksa) Anders Eklund, Ankica Babic, Ida Blystad, Jörg Schilcher, Sarah McIntyre, Jose M. Peña, Oleg Sysoev, Mika Gustafsson, Krzysztof Bartoszek, Hans Knutsson, Per Ask, Magnus Herberthson, Håkan Örman et al.
