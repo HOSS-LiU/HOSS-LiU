@@ -17,6 +17,8 @@ title: R Studio
 </div>  
   
 ### EEG Teaching 
-<p align="center"><img src="https://hoss-liu.github.io/HOSS-LiU/assets/images/EEG_liu1.jpeg"></p>
+<p align="center"><img src="https://hoss-liu.github.io/HOSS-LiU/assets/images/EEG_liu1.png"></p>  
+
+We use the Geodesic nets for teaching and demonstration purposes. To 
 
 # Open Neuroscience 
