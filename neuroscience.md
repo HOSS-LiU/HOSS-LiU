@@ -5,8 +5,8 @@ title: R Studio
 
 # Neuroscience at HOSS   
 Scroll down to find information for: 
-- EEG
-- MEG
+- [EEG](#EEG-(Electroencephalography))
+- [MEG](#MEG-(Magnetoencephalography)) 
 - fNIRS
 - fMRI
 
@@ -46,7 +46,8 @@ You can also preregister your study on the OSF and follow the standard preregist
 <br>
 You can submit a registered reports to a number of neuroscience journals, for example, Cortex, European Journal of Neuroscience or Journal of Cognitive Neuroscience. You can check the full list of journals here on [the OSF](https://www.cos.io/initiatives/registered-reports).  
 EEG manusctipts are also welcome at [PCI Registered Reports](https://rr.peercommunityin.org/).  
-
+<br>  
+<br>  
 
 ## MEG (Magnetoencephalography)
 
