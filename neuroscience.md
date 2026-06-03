@@ -5,12 +5,12 @@ title: Neuroscience
 
 # Neuroscience at HOSS   
 Scroll down to find information for: 
-- [EEG](#EEG-Electroencephalography)
-- [MEG](#MEG-Magnetoencephalography) 
-- [fNIRS](#fNIRS-functional-near-infrared -pectroscopy)
+- [EEG](#eeg-Electroencephalography)
+- [MEG](#meg-Magnetoencephalography) 
+- [fNIRS](#fnirs-functional-near-infrared -pectroscopy)
 - fMRI
 
-## EEG Electroencephalography
+## EEG (Electroencephalography)
 
 <div style="display: flex; gap: 20px;">
   <div style="flex: 1;">
@@ -49,7 +49,7 @@ EEG manusctipts are also welcome at [PCI Registered Reports](https://rr.peercomm
 <br>  
 <br>  
 
-## MEG Magnetoencephalography
+## MEG (Magnetoencephalography)
 
 <div style="display: flex; gap: 20px;">
   <div style="flex: 1;">
@@ -65,7 +65,7 @@ At HOSS, we fo not have our own MEG system, but we collaborate with [NatMEG at K
 <br>  
 <br>  
 
-## fNIRS functional near-infrared spectroscopy  
+## (fNIRS functional near-infrared spectroscopy)  
   
 <div style="display: flex; gap: 20px;">
   <div style="flex: 1;">
