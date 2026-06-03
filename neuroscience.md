@@ -5,8 +5,8 @@ title: Neuroscience
 
 # Neuroscience at HOSS   
 Scroll down to find information for: 
-- [EEG](#eeg-Electroencephalography)
-- [MEG](#meg-Magnetoencephalography) 
+- [EEG](#eeg-electroencephalography)
+- [MEG](#meg-magnetoencephalography) 
 - [fNIRS](#fnirs-functional-near-infrared -pectroscopy)
 - fMRI
 
@@ -31,10 +31,9 @@ We use the Geodesic nets for teaching and demonstration purposes. Our lab has an
 
 For research, we are soon going to use the BioSemi 64 channel system with active electrodes. 
 
-### Open Science Practices for EEG research  
+### Open Science Practices for EEG Research  
 #### Open EEG Data
 You can access many already available open EEG datasets from [Open Neuro](https://openneuro.org/).   
-<br>  
 If you plan to share your own datasets:  
 - make sure that participants have given consent to having their EEG recording shared openly
 - make sure that the dataset follows the [Brain Imaging Data Stracture (BIDS)](https://bids.neuroimaging.io/standards/index.html)
@@ -64,10 +63,9 @@ EEG manusctipts are also welcome at [PCI Registered Reports](https://rr.peercomm
   
 At HOSS, we do not have our own MEG system, but we collaborate with [NatMEG at Karolinska Institutet](https://natmeg.se/) to arrange data collection with their highly innovative OPM-based system.    
 
-### Open Science Practices for MEG research  
+### Open Science Practices for MEG Research  
 #### Open MEG Data
 You can access many already available open MEG datasets from [Open Neuro](https://openneuro.org/).   
-<br>  
 If you plan to share your own datasets:  
 - make sure that participants have given consent to having their MEG recording shared openly
 - make sure that the dataset follows the [Brain Imaging Data Stracture (BIDS)](https://bids.neuroimaging.io/standards/index.html)
@@ -97,10 +95,9 @@ MEG manusctipts are also welcome at [PCI Registered Reports](https://rr.peercomm
 
 We are in the process of acquiring an fNIRS system. Pictures and information will be uploaded soon :)  
 
-### Open Science Practices for fNIRS research  
+### Open Science Practices for fNIRS Research  
 #### Open fNIRS Data
 You can access many already available open fNIRS datasets from [Open Neuro](https://openneuro.org/).   
-<br>  
 If you plan to share your own datasets:  
 - make sure that participants have given consent to having their fNIRS recording shared openly
 - make sure that the dataset follows the [Brain Imaging Data Stracture (BIDS)](https://bids.neuroimaging.io/standards/index.html)
