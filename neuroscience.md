@@ -1,16 +1,16 @@
 ---
 layout: default
-title: R Studio 
+title: Neuroscience 
 ---
 
 # Neuroscience at HOSS   
 Scroll down to find information for: 
-- [EEG](#EEG-(Electroencephalography))
-- [MEG](#MEG-(Magnetoencephalography)) 
-- fNIRS
+- [EEG](#EEG-Electroencephalography)
+- [MEG](#MEG-Magnetoencephalography) 
+- [fNIRS](#fNIRS-functional-near-infrared -pectroscopy)
 - fMRI
 
-## EEG (Electroencephalography)
+## EEG Electroencephalography
 
 <div style="display: flex; gap: 20px;">
   <div style="flex: 1;">
@@ -49,7 +49,7 @@ EEG manusctipts are also welcome at [PCI Registered Reports](https://rr.peercomm
 <br>  
 <br>  
 
-## MEG (Magnetoencephalography)
+## MEG Magnetoencephalography
 
 <div style="display: flex; gap: 20px;">
   <div style="flex: 1;">
@@ -57,6 +57,22 @@ EEG manusctipts are also welcome at [PCI Registered Reports](https://rr.peercomm
   </div>
   <div style="flex: 1;">
     Magnetoencefalografi använder sensorer för att mäta de svaga magnetfält som genereras av samma postsynaptiska strömmar som EEG. MEG erbjuder bättre spatial upplösning än EEG med bibehållen utmärkt temporal upplösning, och signalen störs i mindre utsträckning av skallen och skalpen. Traditionell MEG är mycket dyr, kräver magnetisk avskärmning och är inte portabel. Nya OPM-baserade system (Optically Pumped Magnetometer) är bärbara och möjliggör mer naturlig rörelse. 
+  </div>
+</div>  
+
+At HOSS, we fo not have our own MEG system, but we collaborate with [NatMEG at Karolinska Institutet](https://natmeg.se/) to arrange data collection with their highly innovative OPM-based system.  
+
+<br>  
+<br>  
+
+## fNIRS functional near-infrared spectroscopy  
+  
+<div style="display: flex; gap: 20px;">
+  <div style="flex: 1;">
+    Functional Near-Infrared Spectroscopy uses optodes (light emitters and detectors) placed on the scalp to measure changes in oxygenated and deoxygenated hemoglobin, an indirect measure of neural activity (comparable with functional Magnetic Resonance Imaging, but optical). fNIRS is more portable and robust to movement than EEG and therefore suitable for naturalistic settings and tasks that require movement. The temporal and spatial resolution is poor, compared to EEG/MEG and the method is limited to cortical regions directly accessible beneath the skull. 
+  </div>
+  <div style="flex: 1;">
+    Funktionell nära-infraröd spektroskopi (fNIRS) använder optoder (ljusemittorer och detektorer) placerade på skalpen för att mäta förändringar i syresatt och desyresatt hemoglobin — ett indirekt mått på neural aktivitet (jämförbart med funktionell magnetresonanstomografi/fMRI, men optiskt). fNIRS är mer portabelt och robust mot rörelse än EEG och lämpar sig därför för naturalistiska miljöer och uppgifter som kräver rörelse. Den temporala och spatiala upplösningen är låg jämfört med EEG och MEG, och metoden är begränsad till kortikala regioner nära skalpen. 
   </div>
 </div>  
 
