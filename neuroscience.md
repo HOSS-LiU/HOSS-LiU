@@ -44,7 +44,7 @@ If you plan to share your own datasets:
 The OSF has recently implemented a specific preregistration form for [EEG and ERP studies](https://docs.google.com/document/d/18bLw81ZlDJBCv_wyoohWyEmdI9vOnbS12IEKyrMVcSY/edit?tab=t.0#heading=h.fwbi14d4b65g).   
 You can also preregister your study on the OSF and follow the standard preregistration form or upload a document with research plans, if the avaiable template does not meet your needs.  
 <br>
-You can submit a registered reports to a number of neuroscience journals, for example, Cortex, European Journal of Neuroscience or Journal of Cognitive Neuroscience. You can check the full list of journals here on [the OSF](https://www.cos.io/initiatives/registered-reports).  
+You can submit a registered report to a number of neuroscience journals, for example, Cortex, European Journal of Neuroscience or Journal of Cognitive Neuroscience. You can check the full list of journals here on [the OSF](https://www.cos.io/initiatives/registered-reports).  
 EEG manusctipts are also welcome at [PCI Registered Reports](https://rr.peercommunityin.org/).  
 <br>  
 <br>  
@@ -60,7 +60,24 @@ EEG manusctipts are also welcome at [PCI Registered Reports](https://rr.peercomm
   </div>
 </div>  
 
-At HOSS, we fo not have our own MEG system, but we collaborate with [NatMEG at Karolinska Institutet](https://natmeg.se/) to arrange data collection with their highly innovative OPM-based system.  
+<br>
+  
+At HOSS, we do not have our own MEG system, but we collaborate with [NatMEG at Karolinska Institutet](https://natmeg.se/) to arrange data collection with their highly innovative OPM-based system.    
+
+### Open Science Practices for MEG research  
+#### Open MEG Data
+You can access many already available open MEG datasets from [Open Neuro](https://openneuro.org/).   
+<br>  
+If you plan to share your own datasets:  
+- make sure that participants have given consent to having their MEG recording shared openly
+- make sure that the dataset follows the [Brain Imaging Data Stracture (BIDS)](https://bids.neuroimaging.io/standards/index.html)
+- follow the [COBIDAS best practices](https://osf.io/preprints/osf/a8dhx_v1) for data analysis and sharing
+
+#### Preregistration and registered reports   
+You can preregister your study on the OSF and follow the standard preregistration form or upload a document with research plans, if the avaiable templates do not meet your needs. To guide your preregistration, follow best practices described in the [COBIDAS preprint](https://osf.io/preprints/osf/a8dhx_v1).
+<br>
+You can submit a registered report to a number of neuroscience journals, for example, Cortex, European Journal of Neuroscience or Journal of Cognitive Neuroscience. You can check the full list of journals here on [the OSF](https://www.cos.io/initiatives/registered-reports).  
+MEG manusctipts are also welcome at [PCI Registered Reports](https://rr.peercommunityin.org/).  
 
 <br>  
 <br>  
@@ -75,4 +92,23 @@ At HOSS, we fo not have our own MEG system, but we collaborate with [NatMEG at K
     Funktionell nära-infraröd spektroskopi (fNIRS) använder optoder (ljusemittorer och detektorer) placerade på skalpen för att mäta förändringar i syresatt och desyresatt hemoglobin — ett indirekt mått på neural aktivitet (jämförbart med funktionell magnetresonanstomografi/fMRI, men optiskt). fNIRS är mer portabelt och robust mot rörelse än EEG och lämpar sig därför för naturalistiska miljöer och uppgifter som kräver rörelse. Den temporala och spatiala upplösningen är låg jämfört med EEG och MEG, och metoden är begränsad till kortikala regioner nära skalpen. 
   </div>
 </div>  
+
+<br>  
+
+We are in the process of acquiring an fNIRS system. Pictures and information will be uploaded soon :)  
+
+### Open Science Practices for fNIRS research  
+#### Open fNIRS Data
+You can access many already available open fNIRS datasets from [Open Neuro](https://openneuro.org/).   
+<br>  
+If you plan to share your own datasets:  
+- make sure that participants have given consent to having their fNIRS recording shared openly
+- make sure that the dataset follows the [Brain Imaging Data Stracture (BIDS)](https://bids.neuroimaging.io/standards/index.html)
+
+#### Preregistration and registered reports   
+You can preregister your study on the OSF and follow the standard preregistration form or upload a document with research plans, if the avaiable templates do not meet your needs. To guide your preregistration, follow best practices described in [Yücel et al., 2021](https://doi.org/10.1117/1.NPh.8.1.012101).  
+Further details on methodological quality can be found in this [collection of papers](https://fnirs.org/resources/experiment/confounding-effects/).  
+<br>
+You can submit a registered report to a number of neuroscience journals, for example, Cortex, European Journal of Neuroscience or Journal of Cognitive Neuroscience. You can check the full list of journals here on [the OSF](https://www.cos.io/initiatives/registered-reports).  
+fNIRS manusctipts are also welcome at [PCI Registered Reports](https://rr.peercommunityin.org/).  
 
