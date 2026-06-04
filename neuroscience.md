@@ -8,7 +8,7 @@ Scroll down to find information for:
 - [EEG](#eeg-electroencephalography)
 - [MEG](#meg-magnetoencephalography) 
 - [fNIRS](#fnirs-functional-near-infrared-spectroscopy)
-- [fMRI](#-fmri-functional-magnetic-resonance-imaging)
+- [fMRI](#fmri-functional-magnetic-resonance-imaging)
 
 ## EEG (Electroencephalography)
 
