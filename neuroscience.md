@@ -59,7 +59,7 @@ EEG manusctipts are also welcome at [PCI Registered Reports](https://rr.peercomm
   </div>
 </div>  
 
-<br>
+<p align="center"><img src="https://hoss-liu.github.io/HOSS-LiU/assets/images/MEG.png"></p>  
   
 At HOSS, we do not have our own MEG system, but we collaborate with [NatMEG at Karolinska Institutet](https://natmeg.se/) to arrange data collection with their highly innovative OPM-based system.    
 <br>  
