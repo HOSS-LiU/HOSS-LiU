@@ -142,7 +142,7 @@ fNIRS manuscripts are also welcome at [PCI Registered Reports](https://rr.peerco
   </div>
 </div>  
 
-<br>  
+<p align="center"><img src="https://hoss-liu.github.io/HOSS-LiU/assets/images/MRI.png"></p>  
 
 We do not have our own scanner at HOSS, but it's possible to collaborate with LiU's [Centre for Medical Imaging and Visualisation (CMIV)](https://liu.se/en/research/cmiv) or the national infrastructure [Stockholm University Brain Imaging Centre (SUBIC)](https://www.su.se/english/divisions/subic---stockholm-university-brain-imaging-centre/about-the-centre#h-Facilities). 
 
