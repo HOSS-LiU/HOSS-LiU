@@ -129,3 +129,47 @@ Further details on methodological quality can be found in this [collection of pa
 You can submit a registered report to a number of neuroscience journals, for example, Cortex, European Journal of Neuroscience or Journal of Cognitive Neuroscience. You can check the full list of journals here on [the OSF](https://www.cos.io/initiatives/registered-reports).  
 fNIRS manusctipts are also welcome at [PCI Registered Reports](https://rr.peercommunityin.org/).  
 
+
+    
+## fMRI (Functional Megnetic Resonance Imaging)  
+  
+<div style="display: flex; gap: 20px;">
+  <div style="flex: 1;">
+    Functional magnetic resonance imaging (fMRI) measures brain activity by detecting changes in blood flow and oxygenation (the BOLD signal) associated with neuronal activity. fMRI offers excellent spatial resolution (millimetres) and is non-invasive, allowing precise localisation of brain activity. Disadvantages of fMRI include relatively poor temporal resolution (seconds) due to the delayed haemodynamic response, as well as restricted movement during scanning and low comfort for the participant.
+  </div>
+  <div style="flex: 1;">
+    Funktionell magnetresonanstomografi (fMRI) mäter hjärnaktivitet genom att registrera förändringar i blodflöde och syresättning (BOLD-signalen) kopplade till neuronal aktivitet. fMRI har mycket god spatial upplösning (millimeter) och är icke-invasiv, vilket möjliggör noggrann lokalisering av hjärnaktivitet. Nackdelar med fMRI är relativt låg temporal upplösning (sekunder) på grund av den fördröjda hemodynamiska responsen, samt att rörelse är begränsad under skanningen och komforten för deltagaren är låg.
+  </div>
+</div>  
+
+<br>  
+
+We do not have our own scanner at HOSS, but it's possible to collaborate with LiU's [Centre for Medical Imaging and Visualisation (CMIV)](https://liu.se/en/research/cmiv) or the national infrastructure [Stockholm University Brain Imaging Centre(SUBIC)](https://www.su.se/english/divisions/subic---stockholm-university-brain-imaging-centre/about-the-centre#h-Facilities). 
+
+<br>  
+
+**To design and plan an fMRI study**  
+- Make sure that you have sufficient budget for an fMRI study 
+- Some knowledge of Matlab or R will be necessary for analysing the data
+- Design your experiment in PsychoPy or Presentation 
+- You will need to arrange a piloting and set up time with the team at the scanner. 
+- You will need to complete the MR driving license course (regularly offered).
+- You will need to have an approval from Etikprövningsmyndigheten.
+- All data collection sessions require two researchers to be present. 
+ 
+If you have questions about setting up your first MEG study, the HOSS Lab member who can help is Mikael Skagenholt. 
+
+### Open Science Practices for fMRI Research  
+#### Open fMRI Data
+You can access many already available open fMRI datasets from [Open Neuro](https://openneuro.org/).   
+If you plan to share your own datasets:  
+- make sure that participants have given consent to having their fMRI recording shared openly
+- make sure that the dataset follows the [Brain Imaging Data Stracture (BIDS)](https://bids.neuroimaging.io/standards/index.html)
+
+#### Preregistration and registered reports   
+You can preregister your study on the OSF and follow the standard preregistration form or upload a document with research plans, if the avaiable templates do not meet your needs. To guide your preregistration, follow this preregistration template [Frauke et al., 2021](https://doi.org/10.23668/psycharchives.5121).  
+Further details on methodological quality can be found in this [reporting template](https://www.nipreps.org/sops-cookiecutter/).  
+<br>
+You can submit a registered report to a number of neuroscience journals, for example, Cortex, European Journal of Neuroscience or Journal of Cognitive Neuroscience. You can check the full list of journals here on [the OSF](https://www.cos.io/initiatives/registered-reports).  
+fMRI manusctipts are also welcome at [PCI Registered Reports](https://rr.peercommunityin.org/).  
+
