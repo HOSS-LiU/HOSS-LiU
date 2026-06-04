@@ -29,7 +29,14 @@ We use the Geodesic nets for teaching and demonstration purposes. Our lab has an
 ### EEG Research  
 <p align="center"><img src="https://hoss-liu.github.io/HOSS-LiU/assets/images/EEG_liu2.png"></p>  
 
-For research, we are soon going to use the BioSemi 64 channel system with active electrodes. 
+For research, we are soon going to use the BioSemi 64 channel system with active electrodes.   
+**To design and plan an EEG**  
+- Knowledge of Python and/or Matlab will be necessary for analysing the data. Some self-learning resources can be found here - [Fieldtrip Toolbox](https://www.fieldtriptoolbox.org/), [MNE Python](https://mne.tools/stable/index.html) 
+- Design your experiment in PsychoPy
+- Pilot your experiment
+- You will need to have an approval from Etikprövningsmyndigheten.
+ 
+If you have questions about setting up your first EEG study, the HOSS Lab members who can help are Carine Signoret and Marta Topor. 
 
 ### Open Science Practices for EEG Research  
 #### Open EEG Data
