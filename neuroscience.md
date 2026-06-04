@@ -8,7 +8,7 @@ Scroll down to find information for:
 - [EEG](#eeg-electroencephalography)
 - [MEG](#meg-magnetoencephalography) 
 - [fNIRS](#fnirs-functional-near-infrared-spectroscopy)
-- fMRI
+- [fMRI](#-fmri-functional-magnetic-resonance-imaging)
 
 ## EEG (Electroencephalography)
 
@@ -131,7 +131,7 @@ fNIRS manusctipts are also welcome at [PCI Registered Reports](https://rr.peerco
 <br>
 
     
-## fMRI (Functional Megnetic Resonance Imaging)  
+## fMRI (Functional Magnetic Resonance Imaging)  
   
 <div style="display: flex; gap: 20px;">
   <div style="flex: 1;">
