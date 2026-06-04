@@ -62,6 +62,18 @@ EEG manusctipts are also welcome at [PCI Registered Reports](https://rr.peercomm
 <br>
   
 At HOSS, we do not have our own MEG system, but we collaborate with [NatMEG at Karolinska Institutet](https://natmeg.se/) to arrange data collection with their highly innovative OPM-based system.    
+<br>  
+**To design and plan a study at NatMEG**  
+- Make sure that you have sufficient budget for an MEG study (one hour of testing costs around 3k SEK).
+- Knowledge of Python and/or Matlab will be necessary for analysing the data (NatMEG organises a great PhD course on data analysis during the spring term).
+- Design your experiment in PsychoPy or Presentation (NatMEG offers support with presentation coding: https://k-cir.github.io/cir-wiki/natmeg/presentation/01_Presentation/).
+- You will need to arrange a piloting and set up time with the team at NatMEG. You can also consider applying for a time grant to cover the costs of piloting (https://natmeg.se/services/time-grants.html).
+- You will need to complete the MEG driving license course (regularly offered).
+- You will need to have an approval from Etikprövningsmyndigheten.
+- All data collection sessions require two researchers to be present. NatMEG offers measurement assistance and full recording service for an added cost.
+ 
+If you have questions about setting up your first MEG study, the HOSS Lab members who can help are Carine Signoret and Marta Topor. You can also contact Christoph at NatMEG directly christoph@natmeg.se.   
+
 
 ### Open Science Practices for MEG Research  
 #### Open MEG Data
