@@ -29,8 +29,9 @@ We use the Geodesic nets for teaching and demonstration purposes. Our lab has an
 ### EEG Research  
 <p align="center"><img src="https://hoss-liu.github.io/HOSS-LiU/assets/images/EEG_liu2.png"></p>  
 
-For research, we are soon going to use the BioSemi 64 channel system with active electrodes.   
-**To design and plan an EEG**  
+For research, we are soon going to use the BioSemi 64 channel system with active electrodes.  
+<br>  
+**To design and plan an EEG study**  
 - Knowledge of Python and/or Matlab will be necessary for analysing the data. Some self-learning resources can be found here - [Fieldtrip Toolbox](https://www.fieldtriptoolbox.org/), [MNE Python](https://mne.tools/stable/index.html) 
 - Design your experiment in PsychoPy
 - Pilot your experiment
