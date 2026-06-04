@@ -128,7 +128,7 @@ Further details on methodological quality can be found in this [collection of pa
 <br>
 You can submit a registered report to a number of neuroscience journals, for example, Cortex, European Journal of Neuroscience or Journal of Cognitive Neuroscience. You can check the full list of journals here on [the OSF](https://www.cos.io/initiatives/registered-reports).  
 fNIRS manusctipts are also welcome at [PCI Registered Reports](https://rr.peercommunityin.org/).  
-
+<br>
 
     
 ## fMRI (Functional Megnetic Resonance Imaging)  
@@ -172,4 +172,7 @@ Further details on methodological quality can be found in this [reporting templa
 <br>
 You can submit a registered report to a number of neuroscience journals, for example, Cortex, European Journal of Neuroscience or Journal of Cognitive Neuroscience. You can check the full list of journals here on [the OSF](https://www.cos.io/initiatives/registered-reports).  
 fMRI manusctipts are also welcome at [PCI Registered Reports](https://rr.peercommunityin.org/).  
+
+**Examples of approved Stage 1 Registered Reports from LiU:**  
+- [*The effect of signal quality on speech and sign language perception.*](https://osf.io/yb2nw/files/9c7et) Cristina Tobias Figuerola, Emil Holmer, Josefine Andin, Carine Signoret. Journal of Cognitive Neuroscience. 
 
