@@ -129,7 +129,7 @@ Further details on methodological quality can be found in this [collection of pa
 You can submit a registered report to a number of neuroscience journals, for example, Cortex, European Journal of Neuroscience or Journal of Cognitive Neuroscience. You can check the full list of journals here on [the OSF](https://www.cos.io/initiatives/registered-reports).  
 fNIRS manuscripts are also welcome at [PCI Registered Reports](https://rr.peercommunityin.org/).  
 <br>
-
+<br>
     
 ## fMRI (Functional Magnetic Resonance Imaging)  
   
