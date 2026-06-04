@@ -52,7 +52,7 @@ The OSF has recently implemented a specific preregistration form for [EEG and ER
 You can also preregister your study on the OSF and follow the standard preregistration form or upload a document with research plans, if the avaiable template does not meet your needs.  
 <br>
 You can submit a registered report to a number of neuroscience journals, for example, Cortex, European Journal of Neuroscience or Journal of Cognitive Neuroscience. You can check the full list of journals here on [the OSF](https://www.cos.io/initiatives/registered-reports).  
-EEG manusctipts are also welcome at [PCI Registered Reports](https://rr.peercommunityin.org/).  
+EEG manuscritpts are also welcome at [PCI Registered Reports](https://rr.peercommunityin.org/).  
 <br>  
 <br>  
 
@@ -95,7 +95,7 @@ If you plan to share your own datasets:
 You can preregister your study on the OSF and follow the standard preregistration form or upload a document with research plans, if the avaiable templates do not meet your needs. To guide your preregistration, follow best practices described in the [COBIDAS preprint](https://osf.io/preprints/osf/a8dhx_v1).
 <br>
 You can submit a registered report to a number of neuroscience journals, for example, Cortex, European Journal of Neuroscience or Journal of Cognitive Neuroscience. You can check the full list of journals here on [the OSF](https://www.cos.io/initiatives/registered-reports).  
-MEG manusctipts are also welcome at [PCI Registered Reports](https://rr.peercommunityin.org/).  
+MEG manuscripts are also welcome at [PCI Registered Reports](https://rr.peercommunityin.org/).  
 
 <br>  
 <br>  
@@ -127,7 +127,7 @@ You can preregister your study on the OSF and follow the standard preregistratio
 Further details on methodological quality can be found in this [collection of papers](https://fnirs.org/resources/experiment/confounding-effects/).  
 <br>
 You can submit a registered report to a number of neuroscience journals, for example, Cortex, European Journal of Neuroscience or Journal of Cognitive Neuroscience. You can check the full list of journals here on [the OSF](https://www.cos.io/initiatives/registered-reports).  
-fNIRS manusctipts are also welcome at [PCI Registered Reports](https://rr.peercommunityin.org/).  
+fNIRS manuscripts are also welcome at [PCI Registered Reports](https://rr.peercommunityin.org/).  
 <br>
 
     
@@ -144,7 +144,7 @@ fNIRS manusctipts are also welcome at [PCI Registered Reports](https://rr.peerco
 
 <br>  
 
-We do not have our own scanner at HOSS, but it's possible to collaborate with LiU's [Centre for Medical Imaging and Visualisation (CMIV)](https://liu.se/en/research/cmiv) or the national infrastructure [Stockholm University Brain Imaging Centre(SUBIC)](https://www.su.se/english/divisions/subic---stockholm-university-brain-imaging-centre/about-the-centre#h-Facilities). 
+We do not have our own scanner at HOSS, but it's possible to collaborate with LiU's [Centre for Medical Imaging and Visualisation (CMIV)](https://liu.se/en/research/cmiv) or the national infrastructure [Stockholm University Brain Imaging Centre (SUBIC)](https://www.su.se/english/divisions/subic---stockholm-university-brain-imaging-centre/about-the-centre#h-Facilities). 
 
 <br>  
 
@@ -157,7 +157,7 @@ We do not have our own scanner at HOSS, but it's possible to collaborate with Li
 - You will need to have an approval from Etikprövningsmyndigheten.
 - All data collection sessions require two researchers to be present. 
  
-If you have questions about setting up your first MEG study, the HOSS Lab member who can help is Mikael Skagenholt. 
+If you have questions about setting up your first fMRI study, the HOSS Lab member who can help is Mikael Skagenholt. 
 
 ### Open Science Practices for fMRI Research  
 #### Open fMRI Data
@@ -171,7 +171,7 @@ You can preregister your study on the OSF and follow the standard preregistratio
 Further details on methodological quality can be found in this [reporting template](https://www.nipreps.org/sops-cookiecutter/).  
 <br>
 You can submit a registered report to a number of neuroscience journals, for example, Cortex, European Journal of Neuroscience or Journal of Cognitive Neuroscience. You can check the full list of journals here on [the OSF](https://www.cos.io/initiatives/registered-reports).  
-fMRI manusctipts are also welcome at [PCI Registered Reports](https://rr.peercommunityin.org/).  
+fMRI manuscripts are also welcome at [PCI Registered Reports](https://rr.peercommunityin.org/).  
 
 **Examples of approved Stage 1 Registered Reports from LiU:**  
 - [*The effect of signal quality on speech and sign language perception.*](https://osf.io/yb2nw/files/9c7et) Cristina Tobias Figuerola, Emil Holmer, Josefine Andin, Carine Signoret. Journal of Cognitive Neuroscience. 
