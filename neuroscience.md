@@ -51,7 +51,7 @@ If you plan to share your own datasets:
 The OSF has recently implemented a specific preregistration form for [EEG and ERP studies](https://docs.google.com/document/d/18bLw81ZlDJBCv_wyoohWyEmdI9vOnbS12IEKyrMVcSY/edit?tab=t.0#heading=h.fwbi14d4b65g).   
 You can also preregister your study on the OSF and follow the standard preregistration form or upload a document with research plans, if the avaiable template does not meet your needs.  
 <br>
-You can submit a registered report to a number of neuroscience journals, for example, Cortex, European Journal of Neuroscience or Journal of Cognitive Neuroscience. You can check the full list of journals here on [the OSF](https://www.cos.io/initiatives/registered-reports).  
+You can submit a registered report to a number of neuroscience journals, for example, Cortex, European Journal of Neuroscience or Journal of Cognitive Neuroscience. You can check the full list of journals on [the OSF](https://www.cos.io/initiatives/registered-reports).  
 EEG manuscritpts are also welcome at [PCI Registered Reports](https://rr.peercommunityin.org/).  
 <br>  
 <br>  
@@ -94,7 +94,7 @@ If you plan to share your own datasets:
 #### Preregistration and registered reports   
 You can preregister your study on the OSF and follow the standard preregistration form or upload a document with research plans, if the avaiable templates do not meet your needs. To guide your preregistration, follow best practices described in the [COBIDAS preprint](https://osf.io/preprints/osf/a8dhx_v1).
 <br>
-You can submit a registered report to a number of neuroscience journals, for example, Cortex, European Journal of Neuroscience or Journal of Cognitive Neuroscience. You can check the full list of journals here on [the OSF](https://www.cos.io/initiatives/registered-reports).  
+You can submit a registered report to a number of neuroscience journals, for example, Cortex, European Journal of Neuroscience or Journal of Cognitive Neuroscience. You can check the full list of journals on [the OSF](https://www.cos.io/initiatives/registered-reports).  
 MEG manuscripts are also welcome at [PCI Registered Reports](https://rr.peercommunityin.org/).  
 
 <br>  
@@ -126,7 +126,7 @@ If you plan to share your own datasets:
 You can preregister your study on the OSF and follow the standard preregistration form or upload a document with research plans, if the avaiable templates do not meet your needs. To guide your preregistration, follow best practices described in [Yücel et al., 2021](https://doi.org/10.1117/1.NPh.8.1.012101).  
 Further details on methodological quality can be found in this [collection of papers](https://fnirs.org/resources/experiment/confounding-effects/).  
 <br>
-You can submit a registered report to a number of neuroscience journals, for example, Cortex, European Journal of Neuroscience or Journal of Cognitive Neuroscience. You can check the full list of journals here on [the OSF](https://www.cos.io/initiatives/registered-reports).  
+You can submit a registered report to a number of neuroscience journals, for example, Cortex, European Journal of Neuroscience or Journal of Cognitive Neuroscience. You can check the full list of journals here [the OSF](https://www.cos.io/initiatives/registered-reports).  
 fNIRS manuscripts are also welcome at [PCI Registered Reports](https://rr.peercommunityin.org/).  
 <br>
 <br>
@@ -170,7 +170,7 @@ If you plan to share your own datasets:
 You can preregister your study on the OSF and follow the standard preregistration form or upload a document with research plans, if the avaiable templates do not meet your needs. To guide your preregistration, follow this preregistration template [Frauke et al., 2021](https://doi.org/10.23668/psycharchives.5121).  
 Further details on methodological quality can be found in this [reporting template](https://www.nipreps.org/sops-cookiecutter/).  
 <br>
-You can submit a registered report to a number of neuroscience journals, for example, Cortex, European Journal of Neuroscience or Journal of Cognitive Neuroscience. You can check the full list of journals here on [the OSF](https://www.cos.io/initiatives/registered-reports).  
+You can submit a registered report to a number of neuroscience journals, for example, Cortex, European Journal of Neuroscience or Journal of Cognitive Neuroscience. You can check the full list of journals on [the OSF](https://www.cos.io/initiatives/registered-reports).  
 fMRI manuscripts are also welcome at [PCI Registered Reports](https://rr.peercommunityin.org/).  
 
 **Examples of approved Stage 1 Registered Reports from LiU:**  
