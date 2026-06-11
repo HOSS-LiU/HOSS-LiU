@@ -33,5 +33,5 @@ Very detailed author guidelines are also shared by PCI RR. https://rr.peercommun
 
 ## Discipline-specific Registered Reports Resources   
 Below are alphabetically ordered research displines and links to publications or other registered reports resources. This list will be updated over time so feel free to suggest other resources to be added here at any time.  
-- **Cognitive Computational Modeling** - Registered Modelling Reports, [Lee et al. (2019)](https://link.springer.com/article/10.1007/s42113-019-00029-y)   
+- **Cognitive Computational Modeling** - Registered Modeling Reports, [Lee et al. (2019)](https://link.springer.com/article/10.1007/s42113-019-00029-y)   
 - **Software Engingeering**  - Registered Reports in Software Engineering, [Ernst & Baldassarre (2023)](https://link.springer.com/article/10.1007/s10664-022-10277-5)
