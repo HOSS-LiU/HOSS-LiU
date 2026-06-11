@@ -16,10 +16,13 @@ source: https://www.cos.io/initiatives/registered-reports
 - **Peer Community in Registered Reports (PCI RR).** PCI RR handles submissions from all disciplines and manages the review process all the way to the final report. There are a number of journals that agree to publish PCI RR registered reports without further peer review. The entire peer review process is transparent on the PCI RR website. You are welcome to submit your report to any journal and supply information about the peer review process and ask whether your report will be considered.
 
 ## Registered Reports Guidance for Authors  
+[DOWNLOAD A REGISTERED REPORT PLANNING TEMPLATE](https://doi.org/10.1371/journal.pcbi.1010571.s001) from the paper by Henderson & Chambers (2022)  
+<p align="center"><img src="https://hoss-liu.github.io/HOSS-LiU/assets/images/rr.png"></p>  
+
 It's good to follow the guidance specified by the journal you are planning to submit to.  
 These two papers also share best tips for preparing a registered report:   
-- [Ten simple rules for writing a Registered Report. Henderson & Chambers, 2022](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010571)
-- [Want to Try a Registered Report? Here Are Our Lessons Learned. Oshiro, Alley & Flake, 2024](https://psycnet.apa.org/fulltext/2025-07489-001.html)
+- [Ten simple rules for writing a Registered Report.](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010571) Henderson & Chambers, 2022
+- [Want to Try a Registered Report? Here Are Our Lessons Learned.](https://psycnet.apa.org/fulltext/2025-07489-001.html) Oshiro, Alley & Flake, 2024
 
 Very detailed author guidelines are also shared by PCI RR. https://rr.peercommunityin.org/help/guide_for_authors 
 
