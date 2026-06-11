@@ -26,6 +26,7 @@ Very detailed author guidelines are also shared by PCI RR. https://rr.peercommun
 **Marta Topor, the Open Science Coach**, is a recommender (editor) and a member of the Managing Board at PCI RR. She is happy to answer any project-specific questions regarding registered reports preparation or process.    
 
 ## Registered Reports Published by LiU Staff  
+[Effects of mild-to-moderate sensorineural hearing loss and signal amplification on vocal emotion recognition in middle-aged–older individuals.](https://doi.org/10.1371/journal.pone.0322867) Ekberg, Andin, Signoret, Stenfelt & Dahlström (2025). PLoS One
 
 ## Discipline-specific Registered Reports Resources   
 Below are alphabetically ordered research displines and links to publications or other registered reports resources. This list will be updated over time so feel free to suggest other resources to be added here at any time.  
