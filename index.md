@@ -39,7 +39,11 @@ Open science practices can be implemented at all stages of the research process.
   <img src="assets/images/OSF_design.png" width="200" style="margin-right: 15px;">
   <div>
     <p>Transparent practices at this stage include preregistration and registered reports.</p>  
-    <p>[Registered Reports Resources](https://hoss-liu.github.io/HOSS-LiU/registeredrep)</p>
+    <p> 
+      <a href="https://hoss-liu.github.io/HOSS-LiU/registeredrep">
+        Registered Reports Resources
+      </a>
+    </p>
   </div>
 </div>
 
