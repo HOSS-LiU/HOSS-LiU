@@ -1,4 +1,4 @@
-[**Sign up to the HOSS Lab mailing list**](https://lists.liu.se/mailman/listinfo/Hoss-lab.) to stay informed about our activities.  
+[**Sign up to the HOSS Lab mailing list**](https://lists.liu.se/mailman/listinfo/Hoss-lab) to stay informed about our activities.  
 
 # Open Science at LiU   
 Find out how LiU encourages and supports *Open and Reproducible Research Practices*  
