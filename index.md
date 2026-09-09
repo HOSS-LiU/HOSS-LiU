@@ -1,3 +1,5 @@
+[**Sign up to the HOSS Lab mailing list**](https://lists.liu.se/mailman/listinfo/Hoss-lab.) to stay informed about our activities.  
+
 # Open Science at LiU   
 Find out how LiU encourages and supports *Open and Reproducible Research Practices*  
 * [Open Science Policy](https://styrdokument.liu.se/Regelsamling/VisaBeslut/RS-2025-00005) - read about the policy surrounding open data, data management plans and open access publications 
