@@ -8,10 +8,11 @@ Find out how LiU encourages and supports *Open and Reproducible Research Practic
 * [PhD Course on open science](https://liu.se/forskning/forskarutbildning/kurser-pa-forskarniva/open-science-for-phd-students) - what open science training is currently available
 * Book a consultation for your project or a seminar for your research group with Marta Topor, the Open Science Coach at marta.topor@liu.se
 
-### Articles on Open and Reproducible Science by LiU staff 
+### Publications on Open and Reproducible Science by LiU's researchers 
 (note that only the names of the authors from LiU are listed) 
   
 #### 2026  
+* [Open Science for Evidence Synthesis: Improving research quality within intellectual disability special education research](https://doi.org/10.3384/9789181187670) Lucija Batinović
 * [Overcoming barriers to computational reproducibility](https://doi.org/10.1098/rsos.252489) Lucija Batinović et al.
 * [Trustworthiness and transparency features were less frequent in randomized trials presenting large effects for continuous outcomes in abstracts](https://doi.org/10.1016/j.jclinepi.2026.112215) Lina Koppel et al. 
 #### 2025
@@ -22,6 +23,9 @@ Find out how LiU encourages and supports *Open and Reproducible Research Practic
 #### 2024  
 * [A Beginner’s Guide to Open and Reproducible Systematic Reviews in Psychology](https://doi.org/10.1525/collabra.126218) Lucija Batinović, Marta Topor et al. 
 
+### Open Data Published by LiU's researchers
+Check out the Linköping University [Zenodo Collection](https://zenodo.org/communities/linkopinguniversity/records?q=&l=list&p=1&s=10&sort=newest) to see different types of data shared from projects by LiU's researchers.
+  
 # Methodology-specific resources 
 [Metascience Resources](https://hoss-liu.github.io/HOSS-LiU/metascience) - here you will find detailed information about how to read and interpret a **meta-analysis** and how to do one yourself
 
