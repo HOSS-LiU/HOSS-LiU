@@ -26,6 +26,9 @@ Find out how LiU encourages and supports *Open and Reproducible Research Practic
 ### Open Data Published by LiU's researchers
 Check out the Linköping University [Zenodo Collection](https://zenodo.org/communities/linkopinguniversity/records?q=&l=list&p=1&s=10&sort=newest) to see different types of data shared from projects by LiU's researchers.
   
+# Method Demonstration Projects  
+Swedish political party-program documents - sentiment analysis vs structural topic modelling by Hulda Karlsson-Larsson
+  
 # Methodology-specific resources 
 [Metascience Resources](https://hoss-liu.github.io/HOSS-LiU/metascience) - here you will find detailed information about how to read and interpret a **meta-analysis** and how to do one yourself
 
