@@ -30,16 +30,17 @@ Check out the Linköping University [Zenodo Collection](https://zenodo.org/commu
 *Below you will find applied examples of methods or analysis - for fun and for inspiration*   
 [**Natural Language Processing** - Swedish political party-program analysis](https://hoss-liu.github.io/HOSS-LiU/demoproj1) - sentiment analysis vs structural topic modelling by Hulda Karlsson-Larsson
   
-# Methodology-specific resources 
+# HOSS Resources 
+## Methodology-specific resources 
 [Metascience Resources](https://hoss-liu.github.io/HOSS-LiU/metascience) - here you will find detailed information about how to read and interpret a **meta-analysis** and how to do one yourself
 
-# Discipline-specific resources   
+## Discipline-specific resources   
 [Neuroscience Resources](https://hoss-liu.github.io/HOSS-LiU/neuroscience) - here you will find information about different neuroscience methods supported by HOSS and other national infrastructures we collaborate with. You will also find method specific information about relevant open and reproducible science practices.
 
-# Statistics and programming  
+## Statistics and programming  
 [R Studio](https://hoss-liu.github.io/HOSS-LiU/rstudio) - resources for programming beginners.  
 
-# Resources by project stage   
+## Resources by project stage   
 Open science practices can be implemented at all stages of the research process. Below, we aim to collect guidance for integrating open science practices within your typical research workflow at any chosen stage.  
 
 <p align="center"><img src="https://hoss-liu.github.io/HOSS-LiU/assets/images/OSF.png"></p>
