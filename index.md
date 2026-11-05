@@ -1,3 +1,34 @@
+<style>
+.nav-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 20px 0;
+}
+
+.nav-buttons a {
+  display: inline-block;
+  padding: 10px 16px;
+  background-color: #006699;
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+}
+
+.nav-buttons a:hover {
+  background-color: #004d73;
+}
+</style>
+
+<div class="nav-buttons">
+  <a href="/HOSS-LiU/">Home</a>
+  <a href="/HOSS-LiU/metascience">Metascience</a>
+  <a href="/HOSS-LiU/neuroscience">Neuroscience</a>
+  <a href="/HOSS-LiU/rstudio">R Studio</a>
+  <a href="/HOSS-LiU/registeredrep">Registered Reports</a>
+</div>
+
 [**Sign up to the HOSS Lab mailing list**](https://lists.liu.se/mailman/listinfo/Hoss-lab) to stay informed about our activities.  
 
 # Open Science at LiU   
