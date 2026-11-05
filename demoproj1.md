@@ -4,7 +4,8 @@ title: Analysing the Swedish Political Party-Program Documents
 ---
 <p align="center"><img src="https://hoss-liu.github.io/HOSS-LiU/assets/images/demoproj1_poster.png"></p> 
 
-# Analyses and results
+# Analyses and results  
+[Here](https://github.com/HOSS-LiU/HOSS-LiU/blob/main/assets/code/natural_language_processing_demo.R) you will find the code used for the analyses below. You can check if you get the same results or apply the code in your own analyses.  
 ## Text Preparation and Sentiment Analysis   
 Two Swedish political party-program documents, one from the Social Democratic Party and one from the Moderate Party, were downloaded and translated from Swedish into English using Microsoft Word's automatic document translation function. The translated documents were imported into R and segmented into sentences using the tokenizers package. For text preprocessing, sentences were converted to lowercase, punctuation and numerical characters were removed, and excess whitespace was eliminated.
 Sentiment was assessed at the sentence level using the sentimentr package. Each sentence received a continuous sentiment score (ave_sentiment), with higher values indicating more positive sentiment and lower values indicating more negative sentiment. For descriptive comparison, sentences were classified as positive (score > 0.10), neutral (−0.10 to 0.10), or negative (score < −0.10). These thresholds were specified by the researchers for the present demonstration.
