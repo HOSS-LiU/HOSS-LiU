@@ -1,3 +1,8 @@
+---
+layout: default
+title: Method Demonstration Projects 
+---
+
 <style>
 .nav-buttons {
   display: flex;
@@ -25,10 +30,7 @@
   <a href="/HOSS-LiU/">Home</a>
 </div>
 
----
-layout: default
-title: Method Demonstration Projects 
----
+
 
 *Below you will find applied examples of methods or analyses - for fun and for inspiration*     
 
