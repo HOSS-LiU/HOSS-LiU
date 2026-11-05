@@ -1,28 +1,15 @@
 
-<style>
-.nav-buttons {
-display: flex;
-justify-content: center;
-margin: 20px 0;
-}
- 
-.nav-buttons a {
-display: inline-block;
-padding: 10px 16px;
-background-color: #006699;
-color: white;
-text-decoration: none;
-border-radius: 6px;
-font-weight: bold;
-}
- 
-.nav-buttons a:hover {
-background-color: #004d73;
-}
-</style>
-
-<div class="nav-buttons">
-<a href="/HOSS-LiU/">Home</a>
+<div style="text-align: center; margin: 20px 0;">
+  <a href="/HOSS-LiU/" 
+     style="display: inline-block; 
+            padding: 10px 20px; 
+            background-color: #006699; 
+            color: white; 
+            text-decoration: none; 
+            border-radius: 6px; 
+            font-weight: bold;">
+    Home
+  </a>
 </div>
 
 
