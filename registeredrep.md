@@ -1,37 +1,19 @@
-<style>
-.nav-buttons {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  margin: 20px 0;
-}
-
-.nav-buttons a {
-  display: inline-block;
-  padding: 10px 16px;
-  background-color: #006699;
-  color: white;
-  text-decoration: none;
-  border-radius: 6px;
-  font-weight: bold;
-}
-
-.nav-buttons a:hover {
-  background-color: #004d73;
-}
-</style>
-
-<div class="nav-buttons">
-  <a href="/HOSS-LiU/">Home</a>
+<div style="text-align: center; margin: 20px 0;">
+  <a href="/HOSS-LiU/" 
+     style="display: inline-block; 
+            padding: 10px 20px; 
+            background-color: #006699; 
+            color: white; 
+            text-decoration: none; 
+            border-radius: 6px; 
+            font-weight: bold;">
+    Home
+  </a>
 </div>
 
----
-layout: default
-title: Registered Reports 
----
 
-# Registered Reports Resources   
-
+# Registered Reports Resources
+  
 ## What are registered reports?  
 Registered Reports are a type of research reports that involve two peer review stages. The first peer review (stage 1) happens when the study is designed and planned and before the data are analysed. If the report passess the stage 1 peer review, it receives an in principle acceptance (IPA). The study is then guaranteed to be published regardless of the obtained results as long as the authors stick to the original plan and transparently report all additional exploratory analyses. When the results are reported and the discussion is added to the manuscript, peer review takes place again (stage 2).   
 
