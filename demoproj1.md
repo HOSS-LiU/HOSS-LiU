@@ -12,7 +12,7 @@
 </div>
 
 
-# Analysing the Swedish Political Party-Program Documents
+# Analysing the Swedish Political Party-Programmes
 
 <p align="center"><img src="https://hoss-liu.github.io/HOSS-LiU/assets/images/demoproj1_poster.png"></p> 
 
