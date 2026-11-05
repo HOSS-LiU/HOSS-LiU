@@ -1,34 +1,19 @@
-<style>
-.nav-buttons {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  margin: 20px 0;
-}
-
-.nav-buttons a {
-  display: inline-block;
-  padding: 10px 16px;
-  background-color: #006699;
-  color: white;
-  text-decoration: none;
-  border-radius: 6px;
-  font-weight: bold;
-}
-
-.nav-buttons a:hover {
-  background-color: #004d73;
-}
-</style>
-
-<div class="nav-buttons">
-  <a href="/HOSS-LiU/">Home</a>
+<div style="text-align: center; margin: 20px 0;">
+  <a href="/HOSS-LiU/" 
+     style="display: inline-block; 
+            padding: 10px 20px; 
+            background-color: #006699; 
+            color: white; 
+            text-decoration: none; 
+            border-radius: 6px; 
+            font-weight: bold;">
+    Home
+  </a>
 </div>
 
----
-layout: default
-title: Analysing the Swedish Political Party-Program Documents
----
+
+# Analysing the Swedish Political Party-Program Documents
+
 <p align="center"><img src="https://hoss-liu.github.io/HOSS-LiU/assets/images/demoproj1_poster.png"></p> 
 
 # Analyses and results  
