@@ -22,7 +22,6 @@
 </style>
 
 <div class="nav-buttons">
-  <a href="/HOSS-LiU/">Home</a>
   <a href="/HOSS-LiU/demo_projects">Demonstration Projects</a>
   <a href="/HOSS-LiU/resources">HOSS Resources</a>
   <a href="/HOSS-LiU/registeredrep">Registered Reports</a>
