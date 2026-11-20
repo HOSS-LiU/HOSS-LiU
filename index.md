@@ -37,6 +37,14 @@ Find out how LiU encourages and supports *Open and Reproducible Research Practic
 * [PhD Course on open science](https://liu.se/forskning/forskarutbildning/kurser-pa-forskarniva/open-science-for-phd-students) - what open science training is currently available
 * Book a consultation for your project or a seminar for your research group with Marta Topor, the Open Science Coach at marta.topor@liu.se
 
+<iframe 
+  src="https://www.youtube.com/watch?v=13UndYNWhVE"
+  width="560" 
+  height="315"
+  frameborder="0"
+  allowfullscreen>
+</iframe>
+
 ### Publications on Open and Reproducible Science by LiU's researchers 
 (note that only the names of the authors from LiU are listed) 
   
