@@ -38,7 +38,7 @@ Find out how LiU encourages and supports *Open and Reproducible Research Practic
 * Book a consultation for your project or a seminar for your research group with Marta Topor, the Open Science Coach at marta.topor@liu.se
 
 <iframe 
-  src="https://www.youtube.com/watch?v=13UndYNWhVE"
+  src="https://www.youtube.com/embed/13UndYNWhVE"
   width="560" 
   height="315"
   frameborder="0"
